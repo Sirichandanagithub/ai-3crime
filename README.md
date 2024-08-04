@@ -2,6 +2,7 @@
 AN ARTIFICIAL INTELLIGENCE
 <br>
 An Overview of Malicious USe and abuse in AI
+<br>
      The malicious use of artificial intelligence (AI) in crime is a growing concern. Currently, AI is exploited for various illicit activities, including cyber attacks, deepfake creation, and automated phishing. Future challenges may involve more sophisticated AI-driven attacks, necessitating advanced cybersecurity measures.
      The scope of AI-related crime could expand to include autonomous weapon systems, AI-driven financial fraud, and even manipulation of AI algorithms for illegal purposes. Addressing these challenges requires interdisciplinary collaboration between technologists, policymakers, and law enforcement to develop ethical frameworks, regulations, and countermeasures.
 

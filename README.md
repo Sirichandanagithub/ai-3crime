@@ -10,3 +10,4 @@ The ongoing development of AI and its integration into various domains underscor
        An Overview of Malicious Use and Abuse of AI Developed an AI-driven crime prediction system using Django,leveraging machine learning models such as Naive Bayes, SVM,Logistic Regression, and Decision Tree Classifier to analyze diverse dataset attributes. Integrated CountVectorizer for feature extraction,enhancing the system's ability to identify cyber threats like social 
 engineering, misinformation, hacking, and autonomous weapon systems. Proficiently employed Pandas for data manipulation and Scikit-learn for model training, ensuring robustness in predicting crime 
 types accurately. 
+Artificial Intelligence 
